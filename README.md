@@ -49,5 +49,3 @@ To conduct pattern mining:
 2. Adjust the script parameters such as support and confidence thresholds as needed.
 3. Run the script using Spark to generate patterns and rules.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
